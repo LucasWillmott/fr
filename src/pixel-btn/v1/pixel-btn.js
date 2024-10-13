@@ -1,4 +1,4 @@
-console.log('v2')
+console.log('v1')
 
 // You can add this into your css file, it's just the webflow copying button was bugging out with css embeds
 const style = document.createElement('style')
